@@ -3,6 +3,11 @@
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/11370278/10808535/02230d46-7dc3-11e5-92d8-da15cae8c6e9.png" width="50%" alt="Blackbird Bitcoin Arbitrage">
 </p>
+### TODO: 
+
+-> Add GDAX support to system: This will need to be implmented in gdax.cpp/.h Dont know if this will also need to be added further down the logic chain
+-> Add Kraken Support for shorting: Believe this needs to be added in kracken.cpp/.h
+-> Use EUR for both: Believe this needs to be added into the json requests & replaced in the validation of usd logic
 
 ### Introduction
 
